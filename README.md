@@ -34,3 +34,4 @@ Which is exactly why we will be using Google's Inception model.
  * [Tensorflow Image Recognition](https://www.tensorflow.org/tutorials/image_recognition)
  * [Classify Image](https://github.com/tensorflow/models/blob/master/tutorials/image/imagenet/classify_image.py/)
  * [Image Classifier in 5 minutes](https://www.youtube.com/watch?v=QfNvhPx5Px8)
+ * [Flower Recognition using Deep Learning] (https://gogul09.github.io/software/flower-recognition-deep-learning)
